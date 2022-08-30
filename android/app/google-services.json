@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088459356624",
+    "project_id": "o-my-dog",
+    "storage_bucket": "o-my-dog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088459356624:android:c0291af2dd94a4b4e6a1d5",
+        "android_client_info": {
+          "package_name": "com.example.o_my_dog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088459356624-obse9onte00hvtfd4gq6r54p3rfndll1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwyvMku45G9C09zTyJGD1qZ1yF8g71to0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088459356624-obse9onte00hvtfd4gq6r54p3rfndll1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
